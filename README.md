@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/hiroaki-iwase/str_to_hash.svg?branch=master)](https://travis-ci.org/hiroaki-iwase/str_to_hash)
 # str_to_hash
 This gem convert from String which follow Hash format to collectively HashClass.  
 You can revert string which was converted by 'to_s' method.
